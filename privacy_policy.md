@@ -33,9 +33,10 @@ Changes will be posted here and are effective immediately after they are posted.
 ### Contact Us
 If you have any questions or suggestions about this Privacy Policy, feel free to contact:
 
-**Minarul Ali**  
-📧 Email: [minarul.ali@outlook.com]  
-🌐 GitHub: [https://github.com/m1narul](https://github.com/m1narul)
+**Team StreamLine**  
+🌐 Website: [https://teamstreamlineapps.github.io/](https://teamstreamlineapps.github.io/)  
+📧 Email: [teamstreamlineapps@gmail.com](mailto:teamstreamlineapps@gmail.com)
+
 
 ---
 
