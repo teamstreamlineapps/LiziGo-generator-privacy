@@ -1,43 +1,65 @@
-# Privacy Policy
+📄 Privacy Policy — LiziGo
 
-**Revenue Generator** is a free mobile application developed by **Minarul Ali**. This app displays advertisements using **Google AdMob**.  
+Last Updated: November 17, 2025
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of information if anyone decides to use our app.
+LiziGo (“we”, “our”, “us”) is committed to protecting your privacy.
+This Privacy Policy explains how our app collects, uses, and handles your information when you use LiziGo.
 
----
+📥 Information We Collect
+1. Automatically Collected Data
 
-### Information Collection and Use
-The **Revenue Generator** app itself does not collect, store, or share any personally identifiable information.  
-However, it may use third-party services (like **Google AdMob**) that collect information used to identify you for ad-serving purposes.
+LiziGo may collect certain types of information automatically, such as:
 
-You can learn more about how Google uses information from AdMob by visiting:  
-👉 [https://policies.google.com/privacy](https://policies.google.com/privacy)
+Device information (model, OS version)
 
----
+App usage analytics
 
-### Advertising
-The app uses **AdMob** to show ads. AdMob may use cookies and device identifiers to personalize ad experiences and measure ad performance.
+Crash reports (for improving performance)
 
-You can opt out of personalized advertising by visiting:  
-👉 [https://adssettings.google.com/](https://adssettings.google.com/)
+Advertising identifiers (as required by AdMob)
 
----
+2. Third-Party Services
 
-### Changes to This Privacy Policy
-This Privacy Policy may be updated from time to time.  
-You are advised to review this page periodically for any changes.  
-Changes will be posted here and are effective immediately after they are posted.
+LiziGo uses trusted third-party services, including:
 
----
+Google AdMob (ads & monetization)
 
-### Contact Us
-If you have any questions or suggestions about this Privacy Policy, feel free to contact:
+Google Play Services
 
-**Team StreamLine**  
-🌐 Website: [https://teamstreamlineapps.github.io/](https://teamstreamlineapps.github.io/)  
-📧 Email: [teamstreamlineapps@gmail.com](mailto:teamstreamlineapps@gmail.com)
+These services may collect data as per their own privacy policies.
 
+📘 How We Use Your Information
 
----
+We use collected data to:
 
-**Last updated:** November 2025
+Improve app performance and user experience
+
+Serve relevant advertisements
+
+Maintain security and prevent misuse
+
+Analyze usage trends and prevent crashes
+
+🔐 Data Security
+
+We value your trust and take all reasonable measures to protect your information.
+However, no method of transmission over the internet is 100% secure.
+
+🚫 Children’s Privacy
+
+LiziGo does not knowingly collect data from children under 13.
+If you believe your child has provided information, contact us and we will remove it immediately.
+
+🔄 Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+You are advised to review this page periodically for any changes.
+
+📞 Contact Us
+
+If you have any questions or suggestions about this Privacy Policy, feel free to contact us:
+
+Team StreamLine
+🌐 Website: https://teamstreamlineapps.github.io/
+
+📧 Email: teamstreamlineapps@gmail.com
